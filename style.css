@@ -1,0 +1,67 @@
+/* p.abc{
+    color: blue;
+    background-color: brown;
+}
+#aaa{
+    color: red;
+    background-color: aliceblue;
+} */
+/* mien la o trong div */
+/* div p{
+    background-color: greenyellow;
+} */
+/* o ngay sau div */
+/* div+p{
+    background-color: blueviolet;
+} */
+/* mien la sau div */
+/* div~p{
+    background-color: blueviolet;
+} */
+/* :nth-child(4){
+    color: red;
+} */
+.a{
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg{ 
+    width: 300px;
+    height: 350px;
+    background-color: rebeccapurple;
+    margin-left: 700px;
+    border-radius: 10px;
+}
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.b{
+    margin: 10px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a1{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.button{
+    padding: 10px 20px;
+    background-color: aqua;
+    border-radius: 5px;
+    border: 1px color(xyx red green blue);
+    margin: 30px 30px;
+}
+.name{
+    color: aliceblue;
+    font-size: 30px;
+    margin: 10px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
